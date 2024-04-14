@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "rust";
+  src: url(./../assets/fonts/rust/Rust.ttf);
+}
+
+.rust {
+  font-family: "rust", sans-serif;
+}
+
+.bebas {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.large {
+  font-size: 9rem;
+}
