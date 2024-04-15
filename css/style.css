@@ -16,3 +16,27 @@
 .large {
   font-size: 9rem;
 }
+
+.cascading-right {
+  margin-right: -50px;
+}
+
+@media (max-width: 991.98px) {
+  .cascading-right {
+    margin-right: 0;
+  }
+}
+
+.blur {
+  backdrop-filter: blur(30px);
+  background: hsla(0, 0%, 100%, 0.55);
+}
+
+.hover:hover {
+  color: #b02a37;
+  transition: 0.2s;
+}
+
+input[type="checkbox"] {
+  accent-color: #dc3545 !important;
+}
