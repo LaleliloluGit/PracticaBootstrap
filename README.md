@@ -14,7 +14,7 @@ Este proyecto es un sitio web hecho con Bootstrap 5.3 para el videojuego RUST. E
 🔹 Diseño responsive utilizando el framework Bootstrap 5.3 🔹 Secciones claramente diferenciadas para cada punto de la actividad a completar 🔹 Navegación sencilla y clara 🔹 Diseño limpio y moderno
 
 <h1> 🚀 Tecnologías utilizadas </h1>
-✔️ HTML5 ✔️ CSS3 ✔️ Bootstrap 5.3 ✔️ Javascript
+✔️ HTML5 ✔️ CSS3 ✔️ Bootstrap 5.3 ✔️ JavaScript
 
 <h1> 🔁 Nuestros servicios </h1>
 En esta sección detallamos los servicios que ofrecemoa. Nuestros servicios incluyen:
